@@ -17,9 +17,3 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
-
-### 📊 GitHub Analytics
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
