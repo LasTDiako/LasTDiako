@@ -1,7 +1,7 @@
 <div align="center">
   🌑 Hey! I'm Diako.
 
-### 🛠️ Tech Stack
+###  Tech
 
 #### Programming Languages And Skills
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1A1A1A?style=for-the-badge&logo=hackthebox&logoColor=white)
